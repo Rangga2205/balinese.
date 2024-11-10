@@ -6,8 +6,7 @@
 This game is set in Bali Beach with System and Pause features. For example, if players want to pause, they can use the pause button so they don't miss the story.
 
 ## ▶️ Video Gameplay
-<img src="![Movie_004mp4mp4mp4Moviemp4Movie](https://github.com/user-attachments/assets/f88c8291-4662-42e4-bfff-9fcb1ff318a0)
-" width="350" height="200">
+<img src="https://github.com/user-attachments/assets/f88c8291-4662-42e4-bfff-9fcb1ff318a0" width="350" height="200">
 
 View Full Gameplay : https://www.youtube.com/watch?v=IYGGA_Ehzh8
 ## 🕹️Play Game
