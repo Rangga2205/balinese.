@@ -1,11 +1,9 @@
 ![image](https://github.com/user-attachments/assets/63209c63-2028-49f5-9589-94adae21b514)
 
 ## 🔴 About
-**GodRock** is a **SideScroll** game made with **adventure concept** to add **strategy** and tactical skills to overcome obstacles and enemies in each stage. Players must make decisions about how the character **tactics** to overcome the existing obstacles. In this game, players or users are tasked with exploring the cave, while fighting the existing enemies until they reach the gate to continue the next stage. The diverse and challenging level design can keep players involved. Each stage has a uniqueness that makes exploration more interesting. Has more interesting sound and visual effects when players successfully pass obstacles to provide more satisfaction.
+**Balinese** is a **Visual Novel** game made with a story concept in Bali. Players can play and choose the plot in the story to build the story that has been created. In this game, taking the story theme of the old days in Bali. Diverse level designs and Backsound music that deepens the plot of the story. Each story has a uniqueness that makes it more interesting. Has more interesting sound and visual effects. 
 
-This game is set in a cave, complete with traps and gates. Improve user performance, marked by the use of lighting techniques so that some items there look glowing. GodRock can be operated using an input device, keyboard.
-
-Checkpoint and Pause System Features. For example, if the player wants to stop for a moment, they can use the pause button and save player data when passing a checkpoint so they don't have to start over.
+This game is set in Bali Beach with System and Pause features. For example, if players want to pause, they can use the pause button so they don't miss the story
 
 ## ▶️ Video Gameplay
 <img src="https://github.com/user-attachments/assets/f88d9b82-f38a-48f8-bbac-da68856dfc09" width="350" height="200">
